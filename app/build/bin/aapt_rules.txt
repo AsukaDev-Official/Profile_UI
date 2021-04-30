@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.anisdroid.Profile_UI.MainActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:22
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+

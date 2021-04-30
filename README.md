@@ -4,7 +4,7 @@ simple profile UI
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/Profile_UI" height="150%" width="50%" src="Screenshot_20210428-005150223.jpg"/>
+     <img alt="AsukaDev-Official/Profile_UI" height="150%" width="50%" src="Screenshot_20210501-001656531.jpg"/>
   </a>
 </p>
 
